@@ -1,4 +1,4 @@
-👋 Hi, I’m Angry developer.
+👋 Hi, I’m an angry developer.
 
 <!---
 davidlong2187/davidlong2187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
